@@ -1,0 +1,19 @@
+#img-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+}
+body {
+    background-color: #333333;
+}
+
+#main {
+    background-color: #5c5c5c;
+    color: #ffffff;
+    border-radius: 15px;
+}
